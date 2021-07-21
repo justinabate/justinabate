@@ -2,8 +2,8 @@
 [LinkedIn](https://linkedin.com/in/justinabate/)<br/>
 [Hackster](https://www.hackster.io/j-abate/)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=justinabate&count_private=true&showicons=true&custom_title=GitHub%20Stats&hide=stars,prs)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=justinabate&langs_count=8&card_width=495)]()
+[![Stats](https://github-readme-stats.vercel.app/api/?username=justinabate&count_private=true&showicons=true&custom_title=GitHub%20Stats&hide=stars,prs)]()
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justinabate&langs_count=8&card_width=495&custom_title=Language%20Distribution)]()
 
 
 <!-- 
